@@ -30,7 +30,24 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: tata.einsfeld@gmail.com<br/><br/>
 
-</p>
+# List Soft Skills
+
+Here are some of my soft skills that I bring to the table:
+
+✔️ **Communication**: I excel in both written and verbal communication, making it easy to collaborate with team members and convey complex ideas clearly.
+
+✔️ **Adaptability**: I'm quick to adapt to new technologies and changing project requirements, allowing me to stay agile in the fast-paced world of tech.
+
+✔️ **Problem Solving**: I have a strong problem-solving mindset and enjoy tackling complex issues, breaking them down into manageable tasks.
+
+✔️ **Creativity**: I bring creativity to my work, whether it's designing user interfaces, finding innovative solutions, or brainstorming ideas with the team.
+
+✔️ **Teamwork**: I thrive in a team environment, valuing diverse perspectives and working together to achieve common goals.
+
+✔️ **Time Management**: I'm skilled at managing my time efficiently, ensuring that projects are delivered on time and within scope.
+
+✔️ **Leadership**: I can take on leadership roles when needed, providing direction and support to ensure projects run smoothly.
+
 
 <br/>
 <br/>

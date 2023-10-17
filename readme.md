@@ -30,7 +30,7 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: tata.einsfeld@gmail.com<br/><br/>
 
-# List Soft Skills
+# List of Soft Skills
 
 Here are some of my soft skills that I bring to the table:
 

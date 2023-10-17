@@ -7,7 +7,7 @@
  -->
 
 
-<center>🚀 Welcome to my profile! 🚀</center>
+<center><h1>🚀 Welcome to my profile! </h1>🚀</center>
 
 <p align="center"> 
   <samp>

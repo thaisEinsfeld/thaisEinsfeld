@@ -21,7 +21,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Junior full stack  developer from <b>CF- Parterns, London.</b> 」
+      I am a Junior full stack  developer from <b>CF- Parterns, London.</b>
     <br>
     <br>
   </samp>
@@ -37,7 +37,7 @@
  # About me
  
 <p>
-<iframe src="https://giphy.com/embed/JURC7mzzSK9hwkQO4s" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/allisonponthier-character-development-allison-ponthier-JURC7mzzSK9hwkQO4s"></a></p>
+<img><iframe src="https://giphy.com/embed/JURC7mzzSK9hwkQO4s" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/allisonponthier-character-development-allison-ponthier-JURC7mzzSK9hwkQO4s"></a></p>/>
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>

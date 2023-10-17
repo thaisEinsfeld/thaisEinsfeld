@@ -27,11 +27,11 @@
   </samp>
 </p>
 
- <center><a href="www.linkedin.com/in/thaís-einsfeld-da-rocha-368a95252" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thais"/>
- </a></center>
+<p align="center">
+  <a href="www.linkedin.com/in/thaís-einsfeld-da-rocha-368a95252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thais"/>
+  </a>
 </p>
-<br />
 
 <!-- About Section -->
  # About me

@@ -1,8 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Thais World!
-</h2>
--->
 
 <!--
 <p align="center">
@@ -12,11 +7,7 @@
  -->
 
 
-<!-- Intro  -->
-<h3 align="center">
-      Hey I'm Thaís.
-</h3>
-
+🚀 Welcome to my profile! 🚀
 
 <p align="center"> 
   <samp>

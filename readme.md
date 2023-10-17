@@ -27,9 +27,9 @@
   </samp>
 </p>
 
- <a href="www.linkedin.com/in/thaís-einsfeld-da-rocha-368a95252" target="_blank">
+ <center><a href="www.linkedin.com/in/thaís-einsfeld-da-rocha-368a95252" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thais"/>
- </a>
+ </a></center>
 </p>
 <br />
 
@@ -37,7 +37,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<iframe src="https://giphy.com/embed/JURC7mzzSK9hwkQO4s" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/allisonponthier-character-development-allison-ponthier-JURC7mzzSK9hwkQO4s"></a></p>
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
